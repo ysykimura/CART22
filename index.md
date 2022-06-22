@@ -1,4 +1,4 @@
-# Cluster algebras and related topics (CART) 2022
+# Trends in Cluster Algebras 2022
 
 ## Date
 Sept. 20(Tue)-22(Thu), 2022
