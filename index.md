@@ -4,14 +4,14 @@
 Sept. 20(Tue)-22(Thu), 2022
 
 ## Venue
-online (Zoom)
+Online (Zoom)
 
 ## Organizers
 Osamu Iyama  
 Yoshiyuki Kimura  
 Tomoki Nakanishi (chief)  
 Hironori Oya  
-Fin Qin
+Fan Qin
 
 ## Tentative Speakers
 Dylan Allegretti (Tsinghua)  
