@@ -8,7 +8,7 @@
 ## Norihiro Hanihara:
 ## Tsukasa Ishibashi:
 ## Shunsuke Kano:
-##  Myungho Kim:
+## Myungho Kim:
 ## Yoshiyuki Kimura:
 ## Eunjeong Lee:
 ## Fang Li:
