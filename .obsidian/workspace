@@ -7,8 +7,11 @@
         "id": "2a0c2213d1ab4b6e",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "titleabstract.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "titleabstract.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +88,9 @@
   },
   "active": "2a0c2213d1ab4b6e",
   "lastOpenFiles": [
-    "README.md",
-    "index.md"
+    "titleabstract.md",
+    "index.md",
+    "program.md",
+    "README.md"
   ]
 }
