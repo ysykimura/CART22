@@ -22,7 +22,7 @@
 ## Eunjeong Lee:
 
 ## Fang Li
-### Study on cluster algebras via Newton polytopes: Laurent recurrence formula, positivity and polytope basis
+### Study on cluster algebras via Newton polytopes: Laurent recurrence formula, positivity and polytope basis
 In this talk, we study the Newton polytopes of F-polynomials in totally sign-skew-symmetric cluster algebras and generalize them to a larger set consisting of polytope functions  $\rho_h$ corresponding to polytopes $N_h$ associated to vectors $h\in Z^n$.
 The main contribution contains that  
  (i) obtaining a recurrence construction of the Laurent expression of a cluster variable in a cluster from its g-vector;  
