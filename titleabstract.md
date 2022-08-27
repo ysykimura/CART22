@@ -24,13 +24,8 @@
 ## Fang Li
 ### Study on cluster algebras via Newton polytopes: Laurent recurrence formula, positivity and polytope basis
 In this talk, we study the Newton polytopes of F-polynomials in totally sign-skew-symmetric cluster algebras and generalize them to a larger set consisting of polytope functions  $\rho_h$ corresponding to polytopes $N_h$ associated to vectors $h\in Z^n$.
-The main contribution contains that  
- (i) obtaining a recurrence construction of the Laurent expression of a cluster variable in a cluster from its g-vector;  
- (ii) constructing a strongly positive basis of the upper cluster algebra $U(A)$  from the set of polytope functions consisting of certain indecomposable universally positive elements, which is called as the polytope basis;  
- (iii) building the relationship via some explicit maps among  cluster variables, F-polynomials, g-vectors and d-vectors.  
-   As an application of (i), we give an affirmation for the positivity conjecture of Laurent expressions of cluster variables in a totally sign-skew-symmetric cluster algebra, which in particular provides a new method different with that given in [GHKK] to present the positivity of cluster variables in the skew-symmetrizable case.  
-As an application of (iii), we give an affirmation for the positivity conjecture of d-vectors of cluster variables in a totally sign-skew -symmetric cluster algebra.  
-   This work is joint with Jie Pan.
+The main contribution contains that   (i) obtaining a recurrence construction of the Laurent expression of a cluster variable in a cluster from its g-vector;   (ii) constructing a strongly positive basis of the upper cluster algebra $U(A)$  from the set of polytope functions consisting of certain indecomposable universally positive elements, which is called as the polytope basis;   (iii) building the relationship via some explicit maps among  cluster variables, F-polynomials, g-vectors and d-vectors.  As an application of (i), we give an affirmation for the positivity conjecture of Laurent expressions of cluster variables in a totally sign-skew-symmetric cluster algebra, which in particular provides a new method different with that given in [GHKK] to present the positivity of cluster variables in the skew-symmetrizable case.
+As an application of (iii), we give an affirmation for the positivity conjecture of d-vectors of cluster variables in a totally sign-skew -symmetric cluster algebra. This work is joint with Jie Pan.
 
 ## Euiyong Park
 ### Extended crystals and Hernandez-Leclerc categories
