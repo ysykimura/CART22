@@ -1,4 +1,16 @@
-# Program
+# Program and Slides
+
+The schedule is in Japan Standard Time (=UTC/GMT+9hours)
+
+||9/20(Tuesday)|9/21(Wednesday)|9/22(Thursday)|
+|----|----|----|----|
+|10:00~11:00||||
+|11:10~12:10||||
+||lunch|lunch|lunch|
+|13:30~14:30||||
+|14:40~15:40||||
+|15:50~16:50||||
+
 
 ## 9/20(Tuesday)
 ### 10:00~11:00
