@@ -51,4 +51,6 @@ double Bruhat cells, unipotent cells,... The work of Geiss-Leclerc-Schröer ofte
 In this talk, we will present the construction of the Higgs category (generalizing GLS'Frobenius categories E) and of the relative cluster category (generalizing the derived category of E).
 The Higgs category is no longer exact but still extriangulated in the sense of Nakaoka-Palu (2019).
 
-## Xiaomeng Xu:
+## Xiaomeng Xu
+### A conjectural relation between the canonical bases and the WKB analysis
+ In this talk, we propose an algebraic understanding of the Stokes phenomenon in the WKB approximation via the theory of canonical bases. In particular, we show that the Stokes matrices, of a universal meromorphic linear systems of ODEs with Poncare rank 1, give rise to a family of Drinfeld homomorphism from the Drinfeld-Jimbo quantum group $U_q(\frak{gl}_n)$ to the undeformed universal enveloping algebra $U(\frak{gl}_n)$. We then conjecture that the $q\rightarrow 0$ limit of the image of the canonical bases under the homomorphisms become the eigenbasis of the shift of argument subalgebras of $U(\frak{gl}_n)$ . In the end, we show a result supporting the conjecture: we prove that in a special case the WKB approximation of the Stokes matrices is characterized by a Kashiwara’s $\frak{gl}_n$-crystal structure.
