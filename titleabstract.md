@@ -28,6 +28,8 @@ As a consequence, to compute each $g_{\mu,\nu}^\lambda$, we only need to count l
 ## Yoshiyuki Kimura
 
 ## Eunjeong Lee
+### Lagrangian fillings for Legendrian links of finite or affine type, and the foldings
+Recently, Shen and Weng provided a deep connection between the flag moduli of Legendrian and the theory of cluster algebras using double Bott-Samelson cells. This allows us to use the tools in the cluster algebras to study Lagrangian fillings for Legendrian links. In this talk, we investigate Legendrian links of finite or affine type and argue that there are at least as many Lagrangian fillings as seeds in the corresponding cluster structure. The main ingredients are the combinatorics of exchange graphs (especially, the Coxeter mutation), and the N-graphs developed by Casals and Zaslow. Moreover, we consider how the folding procedures on cluster algebras relate to symmetries on Lagrangian fillings. This talk is based on joint works with Byung Hee An and Youngjin Bae.
 
 ## Fang Li
 ### Study on cluster algebras via Newton polytopes: Laurent recurrence formula, positivity and polytope basis
