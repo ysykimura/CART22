@@ -3,23 +3,31 @@
 
 # Title and Abstract
 
-## Dylan Allegretti:
+## Dylan Allegretti
+### Stability conditions and Teichmüller space
+In this talk, I will describe a relationship between two interesting spaces. The first is Bridgeland's space of stability conditions, which is a complex manifold naturally associated to a triangulated category. The second is Teichmüller space, which parametrizes hyperbolic structures on a surface. I will start off by describing a class of 3-Calabi-Yau triangulated categories associated to quivers with potential. Then, using the theory of harmonic maps, I will describe a natural map from a component of the space of stability conditions on such a category to the Teichmüller space of a surface. I conjecture that this is part of a general relationship between spaces of stability conditions and the positive real loci of cluster varieties.
 
-## Aaron Chan:
+## Aaron Chan
 
-## Jiarui Fei:
+## Jiarui Fei
+### Kronecker Coefficients via Upper Cluster Algebras
+Let $(\lambda,\mu,\nu)$ of a triple of partition of $n$. The *Kronecker coefficient* $g_{\mu,\nu}^\lambda$ is the tensor product multiplicity for the complex representations of the symmetric group on $n$ letters: ${\bf S}^\mu \otimes {\bf S}^\nu = \bigoplus_{\lambda} g_{\mu,\nu}^\lambda {\bf S}^\lambda.$
+We related the Kronecker coefficients to the *semi-invariant ring* of the standard representation space of certain flagged Kronecker quiver.
+We find that all these semi-invariant rings are *upper cluster algebras*. We will explicitly describe a seed (including a quiver and a cluster). It turns out that the bases of these upper cluster algebras are parametrized by *$\mu$-supported ${\sf g}$-vectors*, which are inside a polyhedral cone.
+As a consequence, to compute each $g_{\mu,\nu}^\lambda$, we only need to count lattice points in at most $\ell(\lambda)!$ fibre (rational) polytopes inside the ${\sf g}$-vector cone, which is explicitly given by tropical $F$-polynomials. The previous best known algorithm need $\ell(\lambda)!\ell(\mu)!\ell(\nu)!$ polytopes.
 
-## Norihiro Hanihara:
 
-## Tsukasa Ishibashi:
+## Norihiro Hanihara
 
-## Shunsuke Kano:
+## Tsukasa Ishibashi
 
-## Myungho Kim:
+## Shunsuke Kano
 
-## Yoshiyuki Kimura:
+## Myungho Kim
 
-## Eunjeong Lee:
+## Yoshiyuki Kimura
+
+## Eunjeong Lee
 
 ## Fang Li
 ### Study on cluster algebras via Newton polytopes: Laurent recurrence formula, positivity and polytope basis
@@ -40,7 +48,7 @@ In this talk, we talk about the categorical crystal structure on the Hernandez-L
 ### Bracelets bases are theta bases
 It is known that the bracelets form a basis for the Skein algebra associated with an unpunctured surface. We construct quantum bracelets for quantum cluster algebras arising from a surface (possibly with punctures). We further show that, except for once-punctured tori, the (quantum) bracelets coincide with the (quantum) theta functions, which form the theta basis. Long-standing conjectures such as strong positivity and atomicity follow as consequences. This is a joint work with Travis Mandel.
 
-## Masaru Sugawara:
+## Masaru Sugawara
 
 ## Yilin Wu
 ### Relative cluster categories and Higgs categories
