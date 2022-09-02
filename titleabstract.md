@@ -22,8 +22,18 @@ As a consequence, to compute each $g_{\mu,\nu}^\lambda$, we only need to count l
 ## Tsukasa Ishibashi
 
 ## Shunsuke Kano
+### Earthquake theorem for cluster algebras of finite type
+We introduce a cluster algebraic generalization of Thurston's earthquake map for the cluster algebras of finite type, which we call the cluster earthquake map.
+It is defined by gluing exponential maps, which is modeled after the earthquakes along ideal arcs.
+We prove an analogue of the earthquake theorem, which states that the cluster earthquake map gives a homeomorphism between the spaces of tropical semifield- and positive real numbers-valued points of the cluster X-variety.
+For those of type $A_n$ and $D_n$, the cluster earthquake map indeed recovers the earthquake maps for marked disks and once-punctured marked disks, respectively.
+Moreover, we investigate certain asymptotic behaviors of the cluster earthquake map, which give rise to ``continuous deformations'' of the Fock--Goncharov fan.
+This is joint work with T. Asaka and T. Ishibashi.
 
 ## Myungho Kim
+### Localizations for quiver Hecke algebras
+For each $w$ in the Weyl group, there is a subcategory $C_w$ of the category of finite-dimensional modules over the quiver Hecke algebra, which categorifies the cluster structure of coordinate ring $C[N(w)]$ of the unipotent subgroup $N(w)$. It is known that the localization of $C[N(w)]$ via the frozen variables is isomorphic to the coordinate ring $C[N_w]$ of the unipotent cell $N_w$.
+This is one of the motivations for us to develop a localization process of a $k$-linear abelian monoidal category via a family of simple objects. We apply this process to the case of category $C_w$ with the simple modules corresponding to frozen variables.  It turns out that the Grothendieck ring of the localization $\tilde C_w$ of $C_w$ is isomorphic to the coordinate ring $C[N_w]$ and it respects the cluster algebra structures. A remarkable fact is that any object in $\tilde C_w$ admits a left dual and a right dual. This is a joint work with Masaki Kashiwara, Se-jin Oh, and Euiyong Park.
 
 ## Yoshiyuki Kimura
 
