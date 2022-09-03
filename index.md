@@ -2,25 +2,23 @@
 title: Trends in Cluster Algebras 2022
 ---
 
-# Trends in Cluster Algebras 2022
-
-## Date
+# Date
 Sept. 20(Tue)-22(Thu), 2022
 
-## Venue
+# Venue
 Online (Zoom)
 For the registration, please go to the Zoom registration page.
 
-## Organizers
+# Organizers
 - Osamu Iyama  
 - Yoshiyuki Kimura  
 - Tomoki Nakanishi (chief)  
 - Hironori Oya  
 - Fan Qin
 
-## [Title and Abstract](titleabstract.md)
+# [Title and Abstract](titleabstract.md)
 
-## Tentative Speakers
+# Tentative Speakers
 - Dylan Allegretti (Tsinghua)
 - Aaron Chan (Nagoya)
 - Jiarui Fei (Shanghai Jiao Tong)
@@ -36,7 +34,3 @@ For the registration, please go to the Zoom registration page.
 - Masaru Sugawara (Tohoku)
 - Yilin Wu (University of Science and Technology of China)
 - Xiaomeng Xu(Peking)
-
-## Title and Abstract
-
-## Program and Slides
