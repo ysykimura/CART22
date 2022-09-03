@@ -7,7 +7,7 @@ Sept. 20(Tue)-22(Thu), 2022
 
 # Venue
 Online (Zoom)
-For the registration, please go to the Zoom registration page.
+For the registration, please go to the [Zoom registration page](https://omu-ac-jp.zoom.us/meeting/register/tJwlf-mpqTIpG9Cm1qwpwOdoGRxVWRaXs5Fy).
 
 # Organizers
 - Osamu Iyama  
@@ -18,7 +18,7 @@ For the registration, please go to the Zoom registration page.
 
 # [Title and Abstract](titleabstract.md)
 
-# Tentative Speakers
+# Speakers
 - Dylan Allegretti (Tsinghua)
 - Aaron Chan (Nagoya)
 - Jiarui Fei (Shanghai Jiao Tong)
