@@ -7,33 +7,33 @@ title: Title and Abstract
 <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 
 
-## Dylan Allegretti
-### Stability conditions and Teichmüller space
+# Dylan Allegretti
+## Stability conditions and Teichmüller space
 In this talk, I will describe a relationship between two interesting spaces. The first is Bridgeland's space of stability conditions, which is a complex manifold naturally associated to a triangulated category. The second is Teichmüller space, which parametrizes hyperbolic structures on a surface. I will start off by describing a class of 3-Calabi-Yau triangulated categories associated to quivers with potential. Then, using the theory of harmonic maps, I will describe a natural map from a component of the space of stability conditions on such a category to the Teichmüller space of a surface. I conjecture that this is part of a general relationship between spaces of stability conditions and the positive real loci of cluster varieties.
 
-## Aaron Chan
-### Towards additive categorification of cluster-like algebras associated to non-orientable surfaces
+# Aaron Chan
+## Towards additive categorification of cluster-like algebras associated to non-orientable surfaces
 To an unpunctured non-orientable marked surface, Dupont and Palesi introduced a commutative algebra analogous to the surface cluster algebras of Fomin-Shapiro-Thruston.  The role of clusters in such an algebra is given by quasi-triangulations, that is, maximal collections of arcs and one-sided simple closed curves.  In the case of a triangulation, we can associate with it a quiver with potential (even, a gentle quiver).  This QP comes with an anti-involution, which gives rise to a different kind of representation theory studied by Derksen-Weyman and Boos-Cerulli Irelli.  We aim to epxlain how this can be used to categorify curves on the surface.  This is based on a joint work in progress with Veronique Bazier-Matte and Kayla Wright.
 
-## Jiarui Fei
-### Kronecker Coefficients via Upper Cluster Algebras
+# Jiarui Fei
+## Kronecker Coefficients via Upper Cluster Algebras
 Let $(\lambda,\mu,\nu)$ of a triple of partition of $n$. The *Kronecker coefficient* $g_{\mu,\nu}^\lambda$ is the tensor product multiplicity for the complex representations of the symmetric group on $n$ letters: ${\bf S}^\mu \otimes {\bf S}^\nu = \bigoplus_{\lambda} g_{\mu,\nu}^\lambda {\bf S}^\lambda.$
 We related the Kronecker coefficients to the *semi-invariant ring* of the standard representation space of certain flagged Kronecker quiver.
 We find that all these semi-invariant rings are *upper cluster algebras*. We will explicitly describe a seed (including a quiver and a cluster). It turns out that the bases of these upper cluster algebras are parametrized by *$\mu$-supported ${\sf g}$-vectors*, which are inside a polyhedral cone.
 As a consequence, to compute each $g_{\mu,\nu}^\lambda$, we only need to count lattice points in at most $\ell(\lambda)!$ fibre (rational) polytopes inside the ${\sf g}$-vector cone, which is explicitly given by tropical $F$-polynomials. The previous best known algorithm need $\ell(\lambda)!\ell(\mu)!\ell(\nu)!$ polytopes.
 
 
-## Norihiro Hanihara
-### Higher cluster categories in representation theory
+# Norihiro Hanihara
+## Higher cluster categories in representation theory
 Cluster categories, invented by Buan-Marsh-Reineke-Reiten-Todorov, are 2-Calabi-Yau triangulated categories endowed with 2-cluster tilting objects. They not only play an essential role in the (additive) categorification of cluster algebras, but also appear naturally for example in commutative algebra, and they are therefore interesting representation theoretic object in their own right. We would like to talk about higher cluster categories (d-Calabi-Yau triangulated categories with d-cluster tilting objects) together with their relationship with quiver representations or commutative algebra, and discuss a certain generalization of cluster categories. This is partially based on a joint work with Osamu Iyama.
 
 
-## Tsukasa Ishibashi
-### Wilson lines and the $\mathscr{A}=\mathscr{U}$ problem for the moduli spaces of $G$-local systems
+# Tsukasa Ishibashi
+## Wilson lines and the $\mathscr{A}=\mathscr{U}$ problem for the moduli spaces of $G$-local systems
 The moduli space $\mathcal{A} _{G,\Sigma}$ of decorated twisted $G$-local systems on a marked surface $\Sigma$, originally introduced by Fock--Goncharov, is known to have a natural cluster $K_2$ structure. In particular, we have a canonically defined cluster algebra $\mathscr{A}$ and an upper cluster algebra $\mathscr{U}$ inside its field of rational functions. In order to investigate the structure of the function ring $\mathcal{O}(\mathcal{A} _{G,\Sigma}^\times)$ (of a certain open subspace), we introduce the Wilson lines valued in the simply-connected group $G$, which are “framed versions” of those studied by myself and Hironori Oya. We see that the function ring $\mathcal{O}(\mathcal{A} _{G,\Sigma}^\times)$ is generated by the matrix coefficients of Wilson iines, and some of them are cluster monomials. As an application, we prove that both $\mathscr{A}$ and $\mathscr{U}$ coincide with $\mathcal{O}(\mathcal{A} _{G,\Sigma}^\times)$. Time permitting, I will also mention some relations to the skein theory. This talk is based on a joint work with Hironori Oya and Linhui Shen (arxiv:2202.03168).
 
-## Shunsuke Kano
-### Earthquake theorem for cluster algebras of finite type
+# Shunsuke Kano
+## Earthquake theorem for cluster algebras of finite type
 We introduce a cluster algebraic generalization of Thurston's earthquake map for the cluster algebras of finite type, which we call the cluster earthquake map.
 It is defined by gluing exponential maps, which is modeled after the earthquakes along ideal arcs.
 We prove an analogue of the earthquake theorem, which states that the cluster earthquake map gives a homeomorphism between the spaces of tropical semifield- and positive real numbers-valued points of the cluster X-variety.
@@ -41,21 +41,21 @@ For those of type $A_n$ and $D_n$, the cluster earthquake map indeed recovers th
 Moreover, we investigate certain asymptotic behaviors of the cluster earthquake map, which give rise to ``continuous deformations'' of the Fock--Goncharov fan.
 This is joint work with T. Asaka and T. Ishibashi.
 
-## Myungho Kim
-### Localizations for quiver Hecke algebras
+# Myungho Kim
+## Localizations for quiver Hecke algebras
 For each $w$ in the Weyl group, there is a subcategory $C_w$ of the category of finite-dimensional modules over the quiver Hecke algebra, which categorifies the cluster structure of coordinate ring $C[N(w)]$ of the unipotent subgroup $N(w)$. It is known that the localization of $C[N(w)]$ via the frozen variables is isomorphic to the coordinate ring $C[N_w]$ of the unipotent cell $N_w$.
 This is one of the motivations for us to develop a localization process of a $k$-linear abelian monoidal category via a family of simple objects. We apply this process to the case of category $C_w$ with the simple modules corresponding to frozen variables.  It turns out that the Grothendieck ring of the localization $\tilde C_w$ of $C_w$ is isomorphic to the coordinate ring $C[N_w]$ and it respects the cluster algebra structures. A remarkable fact is that any object in $\tilde C_w$ admits a left dual and a right dual. This is a joint work with Masaki Kashiwara, Se-jin Oh, and Euiyong Park.
 
-## Yoshiyuki Kimura
-### Cluster twist automorphisms and compatible Poisson structures
+# Yoshiyuki Kimura
+## Cluster twist automorphisms and compatible Poisson structures
 We introduce cluster twist automorphisms for (upper) cluster algebras and cluster Poisson algebras (with coefficients). We study their existence and their compatibility with Poisson structures and we also show that the cluster twist automorphisms always permute well-behaved bases for cluster algebras. This is a joint work with Fan Qin and Qiaoling Wei.
 
-## Eunjeong Lee
-### Lagrangian fillings for Legendrian links of finite or affine type, and the foldings
+# Eunjeong Lee
+## Lagrangian fillings for Legendrian links of finite or affine type, and the foldings
 Recently, Shen and Weng provided a deep connection between the flag moduli of Legendrian and the theory of cluster algebras using double Bott-Samelson cells. This allows us to use the tools in the cluster algebras to study Lagrangian fillings for Legendrian links. In this talk, we investigate Legendrian links of finite or affine type and argue that there are at least as many Lagrangian fillings as seeds in the corresponding cluster structure. The main ingredients are the combinatorics of exchange graphs (especially, the Coxeter mutation), and the N-graphs developed by Casals and Zaslow. Moreover, we consider how the folding procedures on cluster algebras relate to symmetries on Lagrangian fillings. This talk is based on joint works with Byung Hee An and Youngjin Bae.
 
-## Fang Li
-### Study on cluster algebras via Newton polytopes: Laurent recurrence formula, positivity and polytope basis
+# Fang Li
+## Study on cluster algebras via Newton polytopes: Laurent recurrence formula, positivity and polytope basis
 In this talk, we study the Newton polytopes of F-polynomials in totally sign-skew-symmetric cluster algebras and generalize them to a larger set consisting of polytope functions $\rho_h$ corresponding to polytopes $N_h$ associated to vectors $h\in Z^n$.
 The main contribution contains that
  (i) obtaining a recurrence construction of the Laurent expression of a cluster variable in a cluster from its g-vector;
@@ -65,20 +65,20 @@ The main contribution contains that
 As an application of (iii), we give an affirmation for the positivity conjecture of d-vectors of cluster variables in a totally sign-skew -symmetric cluster algebra.
 This work is joint with Jie Pan.
 
-## Euiyong Park
-### Extended crystals and Hernandez-Leclerc categories
+# Euiyong Park
+## Extended crystals and Hernandez-Leclerc categories
 In this talk, we talk about the categorical crystal structure on the Hernandez-Leclerc category ${\mathscr{C}}^0 _{\mathfrak{g}}$. We introduce the notion of extended crystals for a quantum group, which can be viewed as the product of infinite copies of the infinite crystal $B(\infty)$, and explain how the set of the isomorphism classes of simple modules in ${\mathscr{C}}^0 _{\mathfrak{g}}$ has an extended crystal structure. We then discuss the Braid group action on an extended crystal, and explain a connection to the Hernandez-Leclerc category ${\mathscr{C}}^0 _{\mathfrak{g}}$. This talk is partially based on a joint work with M. Kashiwara (arXiv: 2111.07255 and 2207.11644).
 
-## Fan Qin
-### Bracelets bases are theta bases
+# Fan Qin
+## Bracelets bases are theta bases
 It is known that the bracelets form a basis for the Skein algebra associated with an unpunctured surface. We construct quantum bracelets for quantum cluster algebras arising from a surface (possibly with punctures). We further show that, except for once-punctured tori, the (quantum) bracelets coincide with the (quantum) theta functions, which form the theta basis. Long-standing conjectures such as strong positivity and atomicity follow as consequences. This is a joint work with Travis Mandel.
 
-## Masaru Sugawara
-### Quantum dilogarithm identities of infinite product and quantum affine algebras
+# Masaru Sugawara
+## Quantum dilogarithm identities of infinite product and quantum affine algebras
 We developed a method to construct quantum dilogarithm identities containing infinite product by using the product formula for the quasi-universal $R$-matrix of quantum affine algebra, which is constructed by K. Ito. The product presentation depends on convex orders on positive roots. By the uniqueness of quasi-universal $R$-matrix, changing convex orders yields non-trivial infinite product identities. We show that by choosing appropriate convex orders and degeneration determined by extended Dynkin quiver, we can construct various concrete quantum dilogarithm identities of infinite product, including the four identities proposed by Dimofte, Gukov, and Soibelman in the context of physics.
 
-## Yilin Wu
-### Relative cluster categories and Higgs categories
+# Yilin Wu
+## Relative cluster categories and Higgs categories
 Cluster categories were introduced in 2006 by Buan-Marsh-Reineke-Reiten-Todorov in order to categorify acyclic cluster algebras without coefficients.
 Their construction was generalized by Amiot and Plamondon to arbitrary cluster algebras associated with quivers (2009 and 2011). A higher dimensional generalization is due to Guo (2011).
 Cluster algebras with coefficients are important since they appear in nature as coordinate algebras of varieties like Grassmannians,
@@ -86,6 +86,6 @@ double Bruhat cells, unipotent cells,... The work of Geiss-Leclerc-Schröer ofte
 In this talk, we will present the construction of the Higgs category (generalizing GLS'Frobenius categories E) and of the relative cluster category (generalizing the derived category of E).
 The Higgs category is no longer exact but still extriangulated in the sense of Nakaoka-Palu (2019).
 
-## Xiaomeng Xu
-### A conjectural relation between the canonical bases and the WKB analysis
+# Xiaomeng Xu
+## A conjectural relation between the canonical bases and the WKB analysis
  In this talk, we propose an algebraic understanding of the Stokes phenomenon in the WKB approximation via the theory of canonical bases. In particular, we show that the Stokes matrices, of a universal meromorphic linear systems of ODEs with Poncare rank 1, give rise to a family of Drinfeld homomorphism from the Drinfeld-Jimbo quantum group $U_q(\frak{gl}_n)$ to the undeformed universal enveloping algebra $U(\frak{gl}_n)$. We then conjecture that the $q\rightarrow 0$ limit of the image of the canonical bases under the homomorphisms become the eigenbasis of the shift of argument subalgebras of $U(\frak{gl}_n)$ . In the end, we show a result supporting the conjecture: we prove that in a special case the WKB approximation of the Stokes matrices is characterized by a Kashiwara’s $\frak{gl}_n$-crystal structure.
