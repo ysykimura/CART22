@@ -1,3 +1,8 @@
+---
+layout: default
+title: Trends in Cluster Algebras 2022
+---
+
 # Trends in Cluster Algebras 2022
 
 ## Date
