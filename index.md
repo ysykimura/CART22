@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Trends in Cluster Algebras 2022
 ---
 
