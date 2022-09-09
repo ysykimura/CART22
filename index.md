@@ -18,6 +18,8 @@ For the registration, please go to the [Zoom registration page](https://omu-ac-j
 
 # [Title and Abstract](titleabstract.md)
 
+# [Program and Slides](program-slides.md)
+
 # Speakers
 - Dylan Allegretti (Tsinghua)
 - Aaron Chan (Nagoya)
