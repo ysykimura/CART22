@@ -24,7 +24,7 @@ The schedule is in Japan Standard Time (=UTC/GMT+9hours)
 
 **13:30~14:30** **Myungho Kim**, [_Localizations for quiver Hecke algebras_](slides/Myungho_Kim.pdf)
 
-**14:40~15:40** **Eunjeong Lee**, _Lagrangian fillings for Legendrian links of finite or affine type, and the foldings_
+**14:40~15:40** **Eunjeong Lee**, [_Lagrangian fillings for Legendrian links of finite or affine type, and the foldings_](slides/Eunjeong_Lee.pdf)
 
 **15:50~16:50** **Norihiro Hanihara**, _Higher cluster categories in representation theory_
 
