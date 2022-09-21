@@ -39,7 +39,7 @@ The schedule is in Japan Standard Time (=UTC/GMT+9hours)
 
 **14:40~15:40** **Fang Li**, [_Study on cluster algebras via Newton polytopes: Laurent recurrence formula, positivity and polytope basis_](slides/Fang_Li.pdf)
 
-**15:50~16:50** **Jiarui Fei**, [_Kronecker Coefficients via Upper Cluster Algebras_](JiaRui_Fei.pdf)
+**15:50~16:50** **Jiarui Fei**, [_Kronecker Coefficients via Upper Cluster Algebras_](slides/JiaRui_Fei.pdf)
 
 ## 9/22(Thursday)
 **10:00~11:00** **Tsukasa Ishibashi**, _Wilson lines and the $\mathscr{A}=\mathscr{U}$ problem for the moduli spaces of $G$-local systems_
