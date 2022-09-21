@@ -29,7 +29,7 @@ The schedule is in Japan Standard Time (=UTC/GMT+9hours)
 **15:50~16:50** **Norihiro Hanihara**, _Higher cluster categories in representation theory_
 
 ## 9/21(Wednesday)
-**10:00~11:00** **Shunsuke Kano**, _Earthquake theorem for cluster algebras of finite type_
+**10:00~11:00** **Shunsuke Kano**, [_Earthquake theorem for cluster algebras of finite type_](slides/Shunsuke_Kano.pdf)
 
 **11:10~12:10** **Dylan Allegretti**, _Stability conditions and Teichmüller space_
 
