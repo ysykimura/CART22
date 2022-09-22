@@ -48,8 +48,8 @@ The schedule is in Japan Standard Time (=UTC/GMT+9hours)
 
  (lunch)
 
-**13:30~14:30** **Euiyong Park**, _Extended crystals and Hernandez-Leclerc categories_
+**13:30~14:30** **Euiyong Park**, [_Extended crystals and Hernandez-Leclerc categories_](slides/Euiyong_Park.pdf)
 
 **14:40~15:40** **Fan Qin**, [_Bracelets bases are theta bases_](slides/Fan_Qin.pdf)
 
-**15:50~16:50** **Masaru Sugawara**, _Quantum dilogarithm identities of infinite product and quantum affine algebras_
+**15:50~16:50** **Masaru Sugawara**, [_Quantum dilogarithm identities of infinite product and quantum affine algebras_](slides/Masaru_Sugawara.pdf)
