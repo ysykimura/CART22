@@ -42,7 +42,7 @@ The schedule is in Japan Standard Time (=UTC/GMT+9hours)
 **15:50~16:50** **Jiarui Fei**, [_Kronecker Coefficients via Upper Cluster Algebras_](slides/JiaRui_Fei.pdf)
 
 ## 9/22(Thursday)
-**10:00~11:00** **Tsukasa Ishibashi**, _Wilson lines and the $\mathscr{A}=\mathscr{U}$ problem for the moduli spaces of $G$-local systems_
+**10:00~11:00** **Tsukasa Ishibashi**, [_Wilson lines and the $\mathscr{A}=\mathscr{U}$ problem for the moduli spaces of $G$-local systems_](slides/Tsukasa_Ishibashi.pdf)
 
 **11:10~12:10** **Xiaomeng Xu**, _A conjectural relation between the canonical bases and the WKB analysis_
 
